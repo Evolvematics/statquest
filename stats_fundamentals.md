@@ -1,0 +1,7 @@
+# Coraviance  
+**Covariance helps to describe the relation between the two variables**.  
+- If the covariance is positive then the relationship between the two variable is positive i.e. increase in value of one variable results in increase in value of the second variable.
+- If the covriance is neggative then the relationship between the two vriable is negative i.e. increase in value of one variable results in the decrease in the value ofsecond varialbe.
+- If the covariance is zero then the there is not relationship between the two variable.  
+
+Covariance itself dosenot tell if the sope of the best fit line drawn between the two variables is steep or shallow. In other words, **covariance only informs about the nautre of the relationship i.e. positive or negative but not the degree of relation ship**. Also, covariance is difficult to interpret becuase the values are scale sensitive i.e. if we use larger scale then the covariance increase even when the relationship has not changed and vice versa. There is little to no meaningful information in the value of covariance itself. Covariance of 4 cannot be comapred to covariance of 8 because, like mentioned earlier, the values are scale dependent so the values themselves are not meaningful. But **covariance is a stepping stone in calculating corellation which gives scale indepenent interpretaion of the relationship between two variables**. Covariance is also importation in other kinds of computations like PCA etc.
